@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : sportscalculator.cpp
 // Author      : Hans Glennford P. Romero
-// Version     :
+// Version     : August 28, 2024
 // Copyright   : Copyright Hans Glennford P. Romero - 2024
-// Description : Hello World in C++, Ansi-style
+// Description : An interface of sports calculators
 //============================================================================
 
 #include <iostream>
