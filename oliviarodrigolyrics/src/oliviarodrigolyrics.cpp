@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : oliviarodrigolyrics.cpp
 // Author      : Hans Glennford P. Romero
-// Version     :
+// Version     : August 28, 2024
 // Copyright   : Copyright Hans Glennford P. Romero - 2024
-// Description : Hello World in C++, Ansi-style
+// Description : An interface to choose an Olivia Rodrigo song and view its lyrics
 //============================================================================
 
 #include <iostream>
